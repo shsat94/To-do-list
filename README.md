@@ -2,7 +2,7 @@
 <h5>This uses HTML,CSS,Javascript and its basics to form this project</h5>
 <p>This uses local storage on the browser's cache memory to store the notes so when user come back he/she can retrieve his/her notes</p>
 
-## Process to Run this Browser Game
+## Process to Run this Webapp
 <pre>
  1. Pull all the files in your local system.
  2. In VS code download the extension LIVE SERVER.
